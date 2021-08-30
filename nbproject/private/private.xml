@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/resources/views/back-end/Admin/updatecategory.blade.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/app/Http/Controllers/BackEnd/Users.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/resources/views/back-end/Admin/allcategory.blade.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/resources/views/back-end/User/resetpass.blade.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/resources/views/back-end/videos/index.blade.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/app/Http/Requests/BackEnd/Users/Store.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/resources/views/back-end/videos/form.blade.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/routes/web.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/app/Http/Controllers/BackEnd/Categories.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/database/migrations/2020_04_08_222247_add_icon_to_category.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/database/migrations/2020_04_07_072906_add_source_to_videos_table.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/app/Models/Category.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/resources/views/back-end/User/edituser.blade.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/app/Models/Video.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/app/Http/Requests/BackEnd/Videos/Store.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/routes/console.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/resources/views/back-end/Admin/addcategory.blade.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/resources/views/back-end/User/users.blade.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/app/Http/Controllers/BackEnd/BackEndController.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/resources/views/back-end/videos/create.blade.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/resources/views/back-end/shared/view.blade.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/resources/views/back-end/User/adduser.blade.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/app/Http/Controllers/BackEnd/Videos.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/resources/views/back-end/layout/app.blade.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/resources/views/back-end/shared/create.blade.php</file>
+            <file>file:/C:/Users/fareed%20khaled%20ibrahe/your_video_stylee/app/Models/User.php</file>
+        </group>
+    </open-files>
+</project-private>
